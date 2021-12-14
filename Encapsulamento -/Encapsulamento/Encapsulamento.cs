@@ -11,10 +11,7 @@ namespace Encapsulamento
        Outros Métodos da Classe.
     */
   
-        //private int _preco;
-        //private int _quantidade;
-
-        private string _nome;//Como o _nome tem uma lógica particular, não dá para  usar Auto Properties.
+        private string _nome;//Como o _tem uma lógica particular, não dá para  usar Auto Properties.p
         public double Preco { get; private set; } //Auto Properties.
         public int Quantidade { get; private set; } //Auto Properties.
 
@@ -48,16 +45,6 @@ namespace Encapsulamento
                 }
             }
         }
-
-        /*public double Preco //Imprimi o valor de _preco (private).
-        {
-            get { return _preco; }
-        }
-
-        public int Quantidade //Imprimi o valor de _quantidade (private).
-        {
-            get { return _quantidade; }
-        }*/
         
         public double ValorTotalEmEstoque()
         {
