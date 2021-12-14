@@ -1,0 +1,11 @@
+C:\Users\igorm\Documents\C#\Construtores\Construtores\bin\Debug\netcoreapp2.1\Construtores.deps.json
+C:\Users\igorm\Documents\C#\Construtores\Construtores\bin\Debug\netcoreapp2.1\Construtores.runtimeconfig.json
+C:\Users\igorm\Documents\C#\Construtores\Construtores\bin\Debug\netcoreapp2.1\Construtores.runtimeconfig.dev.json
+C:\Users\igorm\Documents\C#\Construtores\Construtores\bin\Debug\netcoreapp2.1\Construtores.dll
+C:\Users\igorm\Documents\C#\Construtores\Construtores\bin\Debug\netcoreapp2.1\Construtores.pdb
+C:\Users\igorm\Documents\C#\Construtores\Construtores\obj\Debug\netcoreapp2.1\Construtores.csprojAssemblyReference.cache
+C:\Users\igorm\Documents\C#\Construtores\Construtores\obj\Debug\netcoreapp2.1\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\igorm\Documents\C#\Construtores\Construtores\obj\Debug\netcoreapp2.1\Construtores.AssemblyInfoInputs.cache
+C:\Users\igorm\Documents\C#\Construtores\Construtores\obj\Debug\netcoreapp2.1\Construtores.AssemblyInfo.cs
+C:\Users\igorm\Documents\C#\Construtores\Construtores\obj\Debug\netcoreapp2.1\Construtores.dll
+C:\Users\igorm\Documents\C#\Construtores\Construtores\obj\Debug\netcoreapp2.1\Construtores.pdb
