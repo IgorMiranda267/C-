@@ -15,18 +15,6 @@ namespace Encapsulamento
             Console.WriteLine(p.Nome);
             Console.WriteLine(p.Preco);
             Console.WriteLine(p.Quantidade);
-
-            //Console.Write("Preço: ");
-
-            //Console.WriteLine("Dados dos produtos:");
-
-            //Console.Write("Digite o número de produtos a ser adicionados: ");
-
-            //Console.WriteLine("Dados atualizados: " + p);
-
-            //Console.Write("Digite o número de produtos a ser removidos: ");
-
-            //Console.WriteLine("Dados atualizados: " + p);
         }
     }
 }
