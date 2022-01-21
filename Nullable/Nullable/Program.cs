@@ -23,6 +23,17 @@ namespace Nullable
 
             if (y.HasValue) Console.WriteLine(y.Value);
             else Console.WriteLine("Y is null");
+            
+            //Uso do operador coalescência  "??"
+            double? x1 = null;
+            double? y1 = 10.0;
+
+            //Se o valor de x1 for NULL, a irá receber 5. A mesma situação se aplica para b.
+            double a = x1 ?? 5;
+            double b = y1 ?? 5;
+
+            Console.WriteLine(a);
+            Console.WriteLine(b);
 
         }
     }
